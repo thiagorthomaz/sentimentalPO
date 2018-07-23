@@ -12,6 +12,8 @@ This is the code for the Twitter Sentiment Analyzer challenge for 'Learn Python 
 
 Install missing dependencies using [pip](https://pip.pypa.io/en/stable/installing/)
 
+* python -m textblob.download_corpora
+
 ### Usage
 
 Once you have your dependencies installed via pip, run the script in terminal via
